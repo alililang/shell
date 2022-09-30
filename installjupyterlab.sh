@@ -13,7 +13,7 @@ part=.jupyter/jupyter_notebook_config.py
 echo -e "${green}#########################################"
 echo -e "${green}#                                       #"
 echo -e "${green}#         jupyter一键部署脚本           #"
-echo -e "${green}#  此脚本由aliase@aliyun.com维护        #"
+echo -e "${green}#          此脚本由alililang维护        #"
 echo -e "${green}#           此脚本仅用于学习            #"
 echo -e "${green}#                                       #"
 echo -e "${green}#########################################${plain}"
